@@ -1,1 +1,1 @@
-# Course Phoenix Framework by Elixir
+# Phoenix Framework Course
